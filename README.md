@@ -47,8 +47,8 @@ The initial linear regression analysis was reduced to avoid over fitting.  The f
 ## Output and Calculations
 ![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/summary.jpg "summary")
 ![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/predicted_vs_actual.png "predicted_vs_actual.png")
-![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/hist_of_residuals “hist_of_residuals”)
-![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/resid_charts.jpg “resid_charts”)
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/hist_of_residuals "hist_of_residuals")  
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/resid_charts.jpg "resid_charts")  
 
 ## Summary
 The equation of a lined from step 1 was used to evaluate ‘Initial_days’ of 49.28 days based on the inputted values. 
