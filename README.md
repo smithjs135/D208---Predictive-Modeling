@@ -27,13 +27,13 @@ Multiple Linear Regression analysis is used to make predictions based from more 
 
 ## Visualizations
 ![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/courteous.jpg "")
-![alt text] (https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/dr_comm.jpg "")   
-![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/full_meals.jpg "")  
-![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/heatmap.jpg "")  
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/dr_comm.jpg "")   
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/full_meals.jpg "") 
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/heatmap.jpg "")
 
 
 ## Initial Model
-![alt text] (https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/initial_model.jpg "initial_model")
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/initial_model.jpg "initial_model")
 
 ## Justification of Model Reduction: 
 An initial multiple regression was performed using 12 variables.  Continuous variable, "Initial_days" was chosen as the target variable and the independent variables follow: "ReAdmis", "popclass", "TotalCharge", "VitD_levels", "Admissions", "Treatment", "Visits", Hours", "Courteous", "Dr_comm", "Complication_risk". 
@@ -47,8 +47,8 @@ The initial linear regression analysis was reduced to avoid over fitting.  The f
 ## Output and Calculations
 ![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/summary.jpg "summary")
 ![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/predicted_vs_actual.png "predicted_vs_actual.png")
-![alt text] (https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/hist_of_residuals “hist_of_residuals”)
-![alt text] (https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/resid_charts.jpg “resid_charts”)
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/hist_of_residuals “hist_of_residuals”)
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/resid_charts.jpg “resid_charts”)
 
 ## Summary
 The equation of a lined from step 1 was used to evaluate ‘Initial_days’ of 49.28 days based on the inputted values. 
