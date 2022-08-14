@@ -26,13 +26,8 @@ Single Linear Regression is used to develop models and make predictions based fr
 Multiple Linear Regression analysis is used to make predictions based from more than one dependent variable.  Multiple linear regression will help determine which one or more predictors relationships that lead to patient readmission. Improper variable selection and analysis can lead to misleading results. 
 
 ## Visualizations
-![alt text] (https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/courteous.jpg “Courteous”)  
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/courteous.jpg "")
 
-![alt text] (https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/dr_comm.jpg “dr_comm”)  
-
-![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/equat_of_line.jpg “Eq_line”)  
-![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/full_meals.jpg “full_meals”)  
-![alt text] (https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/heatmap.jpg “heatmap”)  
 
 ## Initial Model
 <initial_model>
