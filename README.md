@@ -27,6 +27,10 @@ Multiple Linear Regression analysis is used to make predictions based from more 
 
 ## Visualizations
 ![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/courteous.jpg "")
+![alt text] (https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/dr_comm.jpg "")  
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/equat_of_line.jpg "")  
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/full_meals.jpg "")  
+![alt text](https://github.com/smithjs135/D208---Predictive-Modeling/blob/main/heatmap.jpg "")  
 
 
 ## Initial Model
